@@ -1,0 +1,1 @@
+123 #define _init hello @world 456
